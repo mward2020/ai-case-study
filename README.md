@@ -1,4 +1,4 @@
-# ai-case-study: A repository for assignment #1: AI Case Study.
+# Assignment #1: AI Case Study.
 
 # ARTIFICIAL INTELLIGENCE AND THE GOLF INDUSTRY: HOW CALLAWAY GOLF IS LEVERAGING AI IN CLUB FACE DESIGN
 
