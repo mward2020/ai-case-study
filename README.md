@@ -183,7 +183,7 @@ Callaway’s AI-branded golf clubs, particularly the 2024 models like the Apex A
 
 However, despite strong reception in terms of innovation and product appeal, Callaway's golf equipment sales declined by 8.2% in Q2 2024, partly due to comparisons with the previous year's product launches and fluctuating foreign exchange rates. This decline impacted profits, as the segment's operating income dropped by nearly 20%. Nonetheless, the company remains financially stable, focusing on product innovation. 
 
-Source:[TopGolf Callaway Brands Announces Second Quarter 2024 Results](https://www.prnewswire.com/news-releases/topgolf-callaway-brands-announces-second-quarter-2024-results-302217130.html)
+Source: [TopGolf Callaway Brands Announces Second Quarter 2024 Results](https://www.prnewswire.com/news-releases/topgolf-callaway-brands-announces-second-quarter-2024-results-302217130.html)
 
 ### How is your company performing relative to competitors in the same field?
 
