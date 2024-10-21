@@ -37,7 +37,7 @@ Publicly traded company. NYSE | MODG (Common Stock). The current valuation of To
 
 As both an AI enthusiast and student, and a passionate golfer, I often find myself pondering how these two seemingly different worlds can converge to help average golfers like me improve their scores and produce a more enjoyable golfing experience. That is, how can we marry the power and insights gained from artificial intelligence to the world of golf? 
 
-There are several ways in which AI is making inroads into golf. Unsurprisingly, there are a several apps already on the market that claim to use AI to help the average golfer improve. These are usually installed on a smartphone, and work in conjunction with the device's camera (and perhaps a launch monitor) to measure swing metrics, collect datapoints, compare them to various swing models, and then recommend corrective actions and drills to resolve the weakest parts of a golfer's swing. These apps certainly merit a deeper dive into how they are using AI to inform the golfer. 
+There are several ways in which AI is making inroads into golf already. Unsurprisingly, there are a several apps already on the market that claim to use AI to help the average golfer improve. These are usually installed on a smartphone, and work in conjunction with the device's camera (and perhaps a launch monitor) to measure swing metrics, collect datapoints, compare them to various swing models, and then recommend corrective actions and drills to resolve the weakest parts of a golfer's swing. These apps certainly merit a deeper dive into how they are using AI to inform the golfer. 
 
 However, the biggest companies in the golf industry have embraced AI with promises of groundbreaking improvements in not only club design, but ball technology, and the overall player experience. Callaway Golf has been at the forefront of this movement, and further cemented it's leadership in this space with the release of the 2024 Callaway Paradym AI Smoke drivers. For this case study, we'll be focusing on AI as it relates to Callaway's golf club face design, as this is the segment of the golf industry that can readily, measurably, and materially benefit from leveraging AI into its club design and manufacturing processes. 
 
@@ -45,7 +45,7 @@ However, the biggest companies in the golf industry have embraced AI with promis
 
 While other major equipment manufacturers are actively implementing AI into their design and manufacturing processes, we can say with confidence that Calloway has largely led the way in implementing AI into its equipment production. In fact, Callaway first claimed club development using AI as far back as 2019 with the release of its Epic Flash Drivers and Fairway Woods. 
 
-However, as I learn more about AI, I approach these bold AI claims with a degree of skepticism. Are we truly witnessing a meaningful integration of revolutionary technology into the game, or is AI simply being used as a marketing buzzword, dressing up what remains a traditional pursuit at its core (that is, building equipment that, in general, produces longer ball flight and smaller misses)? 
+However, as I learn more about AI, I approach these bold AI claims with a degree of skepticism. Are we truly witnessing a meaningful integration of a revolutionary technology into the game of golf, or is AI simply being used as a marketing buzzword, dressing up what remains a traditional pursuit at its core (that is, building equipment that, in general, produces longer ball flight and smaller misses)? 
 
 In this case study, we'll take a closer look at the role AI is playing at Callaway Golf and how it informs and influences their club face designs. We’ll also look at the challenges and opportunities that await Callaway as they stake their claim to being the leader in AI-designed and tested golf gear. 
 
@@ -66,13 +66,15 @@ The Paradym Ai Smoke Drivers represent a huge leap forward in Callaway's AI jour
     - swing speed
     - angle of attack
     - club path and face orientation at time of impact. 
+    
     With this information, we get four points of data for 250,000 swings and you get 1,000,000 data points.
+
 - AI Face Optimization: AI allows Callaway to test tens of thousand virtual prototypes instead of being limited to the less-than-10 physical prototypes.
 - Micro deflections: With AI Smart Face technology, micro deflections are activated upon impact helping to optimize launch and spin on off-center shots. The result is (as mentioned) a sweet spot not just in the center, but essentially all over the face.
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing; you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-As mentioned, Callaway's AI Smart Face technology, which leverages real golfer swing data combined with AI, creates club face prototypes that generate speed and consistency with tight dispersion into target areas (the middle of the fairway or green), while promoting optimized ball flight and forgiveness. 
+As mentioned, Callaway's AI Smart Face technology, which leverages real golfer swing data combined with AI, creates club face prototypes that generate speed and consistency with tight dispersion into target areas (the middle of the fairway, green, etc.), while promoting optimized ball flight and forgiveness. 
 
 So the question remains: How exactly is Callaway using AI to inform the build process of its equipment? What technologies are they using, and how does the process work?  
 
@@ -102,7 +104,7 @@ Source: [MyGolfSpy](https://forum.mygolfspy.com/topic/62317-swinging-skepticism-
 
 ### How the process works
 
-As mentioned, Callaway engineers wrote (and continue to write) the software necessary to get the AI started on the clubface-design project, and the company purchased a $5 Million supercomputer which the manufacturer helped configure to work with the software being developed. Part of getting started was helping AI develop its own understanding of the physics involved between a clubface and ball at impact, and the in-depth details of the USGA’s (United States Golf Association) conformance test for clubface "CT," or Characteristic Time. This way, the AI wouldn't generate club faces that were illegal and violate the maximum performance specifications as laid out but the USGA.
+As mentioned, Callaway engineers wrote the software necessary to get the AI started on the clubface-design project, and the company purchased a $5 Million supercomputer which the manufacturer helped configure to work with the software being developed. Part of getting started was helping AI develop its own understanding of the physics involved between a clubface and ball at impact, and the in-depth details of the USGA’s (United States Golf Association) conformance test for clubface "CT," or Characteristic Time. This way, the AI wouldn't generate club faces that were illegal and violate the maximum performance specifications as laid out but the USGA.
 
 To keep the face design focused, the supercomputer was instructed that its design had to work in accordance with the strict specifications of other design features of the clubhead, so that the face would work in harmony with all club head components, such as sole, crown, adjustable perimeter weighting, etc., to promote maximum performance. The supercomputer created one design after another, learning from each, working non-stop, day and night. According to Dr. Alan Hocknell, Callaway’s head of R&D at the time: 
 
@@ -126,9 +128,9 @@ Source: [AI Is Changing The Face Of Golf Club Design](https://www.forbes.com/sit
 
 Today, golf is all about distance, as in maximizing it (hopefully) with accuracy. Over the last decade, the golf club-making industry (and particularly drivers) has been mostly focused on delivering more distance to the average golfer through the use of advanced materials and strategically placed weights both inside and outside of the club head. This is a result of some of the professional game's newest and brightest stars employing a "bomb and gouge" style of play that's been effective for a handful of top professionals. 
 
-"Bomb and gouge" and basically means hitting the ball as far as possible off the tee, and not worrying too much if it's straight or not. In fact, the goal is to simply get the ball as close to the pin as possible, regardless of whether it's on the fairway or in the rough, long grass, or sand. Then, one simply "gouges" (or hacks) it out onto the green (easier said than done). This can require a lot of upper body strength, which is also a new trend in the game, and one that's certainly tied to the "bomb and gouge" mentality. Data science has shown that, no matter where the ball goes, the closer to the pin you are, the greater your chances of putting the ball in the cup and generating lower scores. All golfers still want to be accurate, but right now, the focus is on distance, because the numbers say that that's the key to lower scoring.
+"Bomb and gouge" basically means hitting the ball as far as possible off the tee, and not worrying too much if it's straight or not. In fact, the goal is to simply get the ball as close to the hole as possible, regardless of whether it's on the fairway or in the rough, long grass, or sand. Then, one simply "gouges" (or hacks) it out onto the green (easier said than done). This can require a lot of upper body strength, which is also a new trend in the game, and one that's certainly tied to the "bomb and gouge" mentality. Data science has shown that, no matter where the ball goes, the closer to the pin you are, the greater your chances of putting the ball in the cup and generating lower scores. All golfers still want to be accurate, but right now, the focus is on distance, because the numbers say that that's the key to lower scoring.
 
-Golf today is all about data, and that's an area where the game has exploded thanks to the influx of launch monitors. Like all other industries, the golf industry was swept up in the *Big Data* revolution, whereby club fittings went from a coach or fitter asking, “How did that one feel,” or, “you seem to be hitting it left... Let’s try something else,” to the use of launch monitors that can precisely measure any or all of the following swing and ball data:  
+Golf today is all about data too, and that's an area where the game has exploded thanks to the influx of launch monitors. Like all other industries, the golf business was swept up in the *Big Data* revolution, whereby club fittings went from a coach or fitter asking, “How did that one feel,” or, “you seem to be hitting it left... Let’s try something else,” to the use of launch monitors that can precisely measure any or all of the following swing and ball data:  
 
 - Apex Height 
 - Attack Angle 
@@ -195,13 +197,15 @@ First, a general observation: Aside from the raw number of data points, one thin
 
 Also, it's a little surprising that only four datapoints per swing are available within their process. However, another way to interpret the data is that there are 1,040,000 data points per swing, captured as part of those four principal components. The biomechanics of a swing are complex and, given the wealth of data that’s provided by at-home launch monitors, I wouldn’t be surprised if a single swing contains that much data. 
 
-Secondly, Callaway makes no claim to making golf balls designed with AI and ML. As such, my recommendation is to quickly leverage existing models toward golf ball development. Titleist is the market leader in golf balls, and a Callaway AI-developed ball could go a long way to reducing the gap. 
+Secondly, Callaway makes no claim to making golf balls designed with AI and machine learning. As such, my recommendation is to quickly leverage existing datasets toward golf ball development. Titleist is the market leader in golf balls, and a Callaway AI-developed ball could go a long way to reducing the gap. 
 
 Several companies are using AI to develop innovative golf balls that provide advanced data and performance insights. One of the most notable is OnCore Innovations with their GENiUS Ball. This ball integrates AI through embedded MEMS sensors, Bluetooth connectivity, and cloud-based reporting, allowing players to track detailed metrics like ball speed, spin, and launch data in real time. The GENiUS Ball aims to help golfers of all skill levels improve their game through this comprehensive feedback.  
 
 Another company venturing into AI-enhanced golf products is Bridgestone, known for their development of cutting-edge visual and performance technologies in their TOUR B series. While Bridgestone is currently more focused on visual technologies like their "MINDSET" system, which helps golfers improve mental focus, it points to their broader push into tech-enhanced equipment. 
 
 These innovations highlight the growing role of AI in personalizing the golf experience by providing actionable data to improve player performance. 
+
+[OnCore](https://oncoreinnovations.golf/genius-ball)
 
 ### Why do you think that offering this product or service would benefit the company?
 
@@ -231,4 +235,4 @@ Sources: [OnCore](https://oncoreinnovations.golf/genius-ball), [Howard's Golf](h
 
 ### Why are these technologies appropriate for your solution?
 
-The use of these technologies could very well produce a golf ball that (while maintaining compliance with USGA thresholds), produces unparalled distance, control, and spin conditions that likely improve player performance at all levels, but especially at the very highest levels of the game. Here is where the margins between a successful professional career and one that never blossomed are so fine that a ball that gives a pro even the slightest edge under tournament conditions can be the difference between winning millions, or languishing at the bottom of leaderboards. 
+The use of these technologies could very well produce a golf ball that (while maintaining compliance with USGA thresholds), produces unparalled distance, control, and spin conditions that likely improve player performance at all levels, but especially at the very highest levels of the game. Here is where the margins are so fine that a ball that gives a pro even the slightest edge under tournament conditions can be the difference between winning millions, or languishing at the bottom of leaderboards.
