@@ -8,60 +8,52 @@
 
 TopGolf Callaway Brands. The TopGolf Callaway brand encompasses many brands such as: 
 
-    - Callaway Golf (Equipment design and manufacturing)
-    - TopGolf (Interactive driving ranges)
-    - Travis Mathew (Golf clothing)
-    - TopTracer (Lauch monitors) 
-    - Odyssey (Putters) 
-    - Ogio (Golf bags)
-    - Jack Wolfskin (Outdoor clothing) 
-    - WGT (Virtual/video game) 
+- Callaway Golf (Equipment design and manufacturing)
+- TopGolf (Interactive driving ranges)
+- Travis Mathew (Golf clothing)
+- TopTracer (Lauch monitors) 
+- Odyssey (Putters) 
+- Ogio (Golf bags)
+- Jack Wolfskin (Outdoor clothing) 
+- WGT (Virtual/video game) 
 
-Generally speaking, Callaway Golf is the company’s most recognizable brand and a global marketplace leader in the golf equipment industry. It is based in Carlsbad, California.
+Generally speaking, Callaway Golf is the company’s most recognizable brand and a global marketplace leader in the golf equipment industry. This case study will focus on **Callaway Golf** and how they’re leveraging AI in club design. 
 
-This case study will focus on Callaway Golf and how they’re leveraging AI in club design. 
-
-* When was the company incorporated? Who are the founders?:
+### When was the company incorporated? Who are the founders?:
 
 The Callaway Golf Company was founded by Ely Callaway and incorporated in California in 1982.
 
-* How did the idea for the company (or project) come about?:
+### How did the idea for the company (or project) come about?:
 
-Avid golfer Ely Callaway, already a successfull businessman in the textile and wine industries, took advantage of an opportunity to invest in a struggling golf club-making company (Hickory Sticks USA), mostly because they were his favorite brand of club to use. He bought half the company in 1982, renaming it "Calloway Hickory Sticks USA." By 1984, he owned the whole company and relocated it to its present day home of Carlsbad, CA. Since then, Callaway has risen to become one of the world’s leading golf equipment makers. 
+Avid golfer Ely Callaway, already a successfull businessman in the textile and wine industries, took advantage of an opportunity to invest in a struggling golf club-making company (Hickory Sticks USA), mostly because they were his favorite brand of club to use. He bought half the company in 1982, renaming it "Callaway Hickory Sticks USA." By 1984, he owned the whole company and relocated it to its present day home of Carlsbad, CA. Since then, Callaway has risen to become one of the world’s leading golf equipment and apparel makers. 
 
-* How is the company funded? How much funding have they received?: 
+### How is the company funded? How much funding have they received?: 
 
-Publicly traded company. NYSE | MODG (Common Stock). 
+Publicly traded company. NYSE | MODG (Common Stock). The current valuation of Topgolf Callaway Brands Corp is US$ 1.96 Bn.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+### What specific problem is the company or project trying to solve?
 
-As both an AI enthusiast and a passionate golfer, I often find myself pondering how these two seemingly different worlds can converge to help golfers improve their scores and produce a more enjoyable golfing experience. That is, how can we marry the power and insights gained from artificial intelligence to the world of golf? 
+As both an AI enthusiast, AI student, and a passionate golfer, I often find myself pondering how these two seemingly different worlds can converge to help average golfers like me improve their scores and produce a more enjoyable golfing experience. That is, how can we marry the power and insights gained from artificial intelligence to the world of golf? 
 
-Unsurprisingly, there are a several apps already on the market that claim to use AI to help the average golfer improve. These are usually installed on a smart phone, and work in conjunction with the device's camera to measure swing metrics and collect datapoints, compare them to various swing models, and then recommend corrective actions and drills to resolve the weakest parts of a golfer's swing. These apps certainly merit a deeper dive into how they are using AI to inform the golfer. 
+Unsurprisingly, there are a several apps already on the market that claim to use AI to help the average golfer improve. These are usually installed on a smartphone, and work in conjunction with the device's camera to measure swing metrics and collect datapoints, compare them to various swing models, and then recommend corrective actions and drills to resolve the weakest parts of a golfer's swing. These apps certainly merit a deeper dive into how they are using AI to inform the golfer. 
 
-However, the biggest companies in the golf industry have embraced AI with promises of groundbreaking improvements in not only club design, but ball technology, and the overall player experience. Callaway Golf has been at the forefront of this movement, and further cemented it's leadership in this space with its release of the 2024 Callaway Paradym AI Smoke drivers. For this case study, we'll be focusing on AI as it relates to Callaway's golf club face and head design, as this is the segment of the golf industry that can readily, measurably, and materieally benefit from leverating AI into it's club design processes. 
+However, the biggest companies in the golf industry have embraced AI with promises of groundbreaking improvements in not only club design, but ball technology, and the overall player experience. Callaway Golf has been at the forefront of this movement, and further cemented it's leadership in this space with its release of the 2024 Callaway Paradym AI Smoke drivers. For this case study, we'll be focusing on AI as it relates to Callaway's golf club face and head design, as this is the segment of the golf industry that can readily, measurably, and materially benefit from leverating AI into it's club design and manufacturing processes. 
 
-Note: Another important element in the performance of a golf club is the club's shaft, where matching the right shaft with the right club head is key to the club fitting process, and maximizing a player's shot performance. Shafts differ in stiffness and flex points, and no doubt shaft manufacturers are dabbling in AI as weel. But, for this case study, we'll remain focused on club face design.
+**Note:** Another important element in the performance of a golf club is the club's shaft, where matching the right shaft with the right club head is key to the club fitting process, and maximizing a player's shot performance. Shafts differ in stiffness and flex points, and no doubt shaft manufacturers are dabbling in AI as weel. But, for this case study, we'll remain focused on club face design.
 
-While other major equipment manufacturers are most likely actively implementing AI into their design and manufacturing processes, we can say with confidence that Calloway has largely led the way in implementing AI into its equipment production. In fact, Callaway first claimed club development using AI as far back as 2019 with the release of its Epic Flash Drivers and Fairway Woods. 
+While other major equipment manufacturers are actively implementing AI into their design and manufacturing processes, we can say with confidence that Calloway has largely led the way in implementing AI into its equipment production. In fact, Callaway first claimed club development using AI as far back as 2019 with the release of its Epic Flash Drivers and Fairway Woods. 
 
-However, as I learn more about AI, I approach these bold AI claims with a degree of skepticism. Are we truly witnessing a meaningful integration of advanced technology into the game, or is AI simply being used as a marketing buzzword, dressing up what remains a traditional pursuit at its core - that is, building equipment that, in general, produces longer ball flight and smaller dispersion (smaller misses)?  
+However, as I learn more about AI, I approach these bold AI claims with a degree of skepticism. Are we truly witnessing a meaningful integration of revolutionary technology into the game, or is AI simply being used as a marketing buzzword, dressing up what remains a traditional pursuit at its core - that is, building equipment that, in general, produces longer ball flight and smaller dispersion (smaller misses)? 
 
 In this case study, we'll take a closer look at the role AI is playing at Callaway Golf and uncover whether it’s truly revolutionizing the game of golf, or if it's more hype than substance. We’ll also look at the challenges and opportunities that await Callaway as they stake their claim to being the leader in AI-designed and tested golf gear. 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
-Calloway’s customer base extends from beginners to professional PGA TOUR players. They make equipment for use by golfers of all ages and skill levels. According to market research company Statistica, the Golf Equipment market worldwide is projected to generate a revenue of US$ 25.5bn in 2024. When considering the population, the per-person revenue worldwide is approximately US$ 3.29 in 2024. 
+Calloway’s customer base extends from beginners to professional PGA TOUR players. They make equipment for use by golfers of all ages and skill levels. According to market research company [Statistica]( https://www.statista.com/outlook/cmo/toys-hobby/sports-equipment/golf-equipment/worldwide), the Golf Equipment market worldwide is projected to generate a revenue of US$ 25.5bn in 2024. When considering the population, the per-person revenue worldwide is approximately US$ 3.29 in 2024. 
 
-This market segment is expected to experience an annual growth rate of 5.63%, as measured by the compound annual growth rate (CAGR) from 2024 to 2028. 
-
-In comparison to other countries, in China stands out as the top revenue generator, with an estimated revenue of US$ 8,876.0m in 2024. 
-
-However, in the golf equipment market, the United States continues to dominate with its strong demand for high-quality clubs and advanced technology. 
-
-Source: https://www.statista.com/outlook/cmo/toys-hobby/sports-equipment/golf-equipment/worldwide 
+This market segment is expected to experience an annual growth rate of 5.63%, as measured by the compound annual growth rate (CAGR) from 2024 to 2028. The United States continues to dominate this market with its strong demand for high-quality clubs and advanced technology. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
