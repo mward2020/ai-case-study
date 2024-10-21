@@ -241,7 +241,7 @@ The use of these technologies could very well produce a golf ball that (while ma
 
 [Howard's Golf](https://howardsgolf.com/ai-golf-club-design/)
 
-[Research on the Applications of Artificial Intelligence in Golf](file:///C:/Users/mward/Downloads/Research_on_the_Applications_of_Artificial_Intelli.pdf)
+[Research on the Applications of Artificial Intelligence in Golf](https://www.atlantis-press.com/proceedings/ic-icaie-22/125981040)
 
 [Callaway Golf - Press](https://www.callawaygolf.com/press)
 
