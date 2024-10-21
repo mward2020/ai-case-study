@@ -100,8 +100,6 @@ It's important to note here that Callaway is very guarded when it comes to shari
 
 Then, they test and validate what's produced and tweak as needed. This isn't particularly new for Callaway, as they've done this for years now. With more than 80,000 lines of custom code built into their design system, they have a model that allows them to come up with thousands of iterations of designs in a much shorter time period than would be possible with only humans working on it. Callaway have openly stated that the models have created designs they would never have come up with on their own, or even imagined as possible.
 
-Source: [MyGolfSpy](https://forum.mygolfspy.com/topic/62317-swinging-skepticism-decoding-claims-of-ai-in-golf-product-development/)   
-
 ### How the process works
 
 As mentioned, Callaway engineers wrote the software necessary to get the AI started on the clubface-design project, and the company purchased a $5 Million supercomputer which the manufacturer helped configure to work with the software being developed. Part of getting started was helping AI develop its own understanding of the physics involved between a clubface and ball at impact, and the in-depth details of the USGA’s (United States Golf Association) conformance test for clubface "CT," or Characteristic Time. This way, the AI wouldn't generate club faces that were illegal and violate the maximum performance specifications as laid out but the USGA.
@@ -119,8 +117,6 @@ Callaway immediately machined a physical prototype and tested it, finding the co
     “We thought AI could figure out aspects of how the face works in the dynamic situation of impact to arrive at a deeper understanding of how the face works and how to improve its performance,” said Hocknell. “That’s what happened. We learned there are things going on in one part of the face that influence what’s happening in other parts of the face at impact and this is a whole higher order level of analysis and design,” said Hocknell. 
     
 The unique design forced changes in the entire face production process. Callaway's CAD designers had to work differently and their manufacturing methods had to change as well. Forging this new AI-generated face design was significantly harder than previous face designs, and even measuring the unusual contours of this new face posed new challenges. 
-
-Source: [AI Is Changing The Face Of Golf Club Design](https://www.forbes.com/sites/stevemccaskill/2019/01/31/ai-is-changing-the-face-of-golf-club-design/)
 
 ## Landscape
 
@@ -183,8 +179,6 @@ Callaway’s AI-branded golf clubs, particularly the 2024 models like the Apex A
 
 However, despite strong reception in terms of innovation and product appeal, Callaway's golf equipment sales declined by 8.2% in Q2 2024, partly due to comparisons with the previous year's product launches and fluctuating foreign exchange rates. This decline impacted profits, as the segment's operating income dropped by nearly 20%. Nonetheless, the company remains financially stable, focusing on product innovation. 
 
-Source: [TopGolf Callaway Brands Announces Second Quarter 2024 Results](https://www.prnewswire.com/news-releases/topgolf-callaway-brands-announces-second-quarter-2024-results-302217130.html)
-
 ### How is your company performing relative to competitors in the same field?
 
 In a nutshell, competition is fierce. Callaway Golf's performance against competitors in 2024 has been mixed. While Callaway's Topgolf division showed strong growth, increasing revenue by 5% and improving profitability, its golf equipment segment faced challenges. Revenues in this segment dropped by 8.2% due to stiff competition and the impact of previous product launches like Big Bertha. Compared to competitors such as TaylorMade and Titleist, which have also innovated heavily, Callaway's position remains strong but not without hurdles in maintaining market share in equipment. They have been bold (and first) to start marketing their products as AI-informed, but competitors are quickly catching up.  
@@ -204,8 +198,6 @@ Several companies are using AI to develop innovative golf balls that provide adv
 Another company venturing into AI-enhanced golf products is Bridgestone, known for their development of cutting-edge visual and performance technologies in their TOUR B series. While Bridgestone is currently more focused on visual technologies like their "MINDSET" system, which helps golfers improve mental focus, it points to their broader push into tech-enhanced equipment. 
 
 These innovations highlight the growing role of AI in personalizing the golf experience by providing actionable data to improve player performance. 
-
-Source: [OnCore](https://oncoreinnovations.golf/genius-ball)
 
 ### Why do you think that offering this product or service would benefit the company?
 
@@ -231,8 +223,28 @@ Manufacturing an AI-powered golf ball requires a blend of advanced AI technologi
 
 By integrating these AI technologies, manufacturers can produce AI-powered golf balls with consistent quality and performance, while leveraging data-driven insights to improve both the production process and the product itself. 
 
-Sources: [OnCore](https://oncoreinnovations.golf/genius-ball), [Howard's Golf](https://howardsgolf.com/ai-golf-club-design/)
-
 ### Why are these technologies appropriate for your solution?
 
 The use of these technologies could very well produce a golf ball that (while maintaining compliance with USGA thresholds), produces unparalled distance, control, and spin conditions that likely improve player performance at all levels, but especially at the very highest levels of the game. Here is where the margins are so fine that a ball that gives a pro even the slightest edge under tournament conditions can be the difference between winning millions, or languishing at the bottom of leaderboards.
+
+## Sources
+
+[Statistica]( https://www.statista.com/outlook/cmo/toys-hobby/sports-equipment/golf-equipment/worldwide)
+
+[MyGolfSpy](https://forum.mygolfspy.com/topic/62317-swinging-skepticism-decoding-claims-of-ai-in-golf-product-development/)   
+
+[Forbes: AI Is Changing The Face Of Golf Club Design](https://www.forbes.com/sites/stevemccaskill/2019/01/31/ai-is-changing-the-face-of-golf-club-design/)
+
+[TopGolf Callaway Brands Announces Second Quarter 2024 Results](https://www.prnewswire.com/news-releases/topgolf-callaway-brands-announces-second-quarter-2024-results-302217130.html)
+
+[OnCore](https://oncoreinnovations.golf/genius-ball)
+
+[Howard's Golf](https://howardsgolf.com/ai-golf-club-design/)
+
+[Research on the Applications of Artificial Intelligence in Golf](file:///C:/Users/mward/Downloads/Research_on_the_Applications_of_Artificial_Intelli.pdf)
+
+[Callaway Golf - Press](https://www.callawaygolf.com/press)
+
+[Forbes: The AI Caddie: Revolutionizing Golf with AI Technology](https://www.forbes.com/sites/neilsahota/2024/01/29/the-ai-caddie-revolutionizing-golf-with-ai-technology/)
+
+[Callaway Golf - AI Smart Face](https://www.callawaygolf.com/aismoke?utm_source=google&utm_medium=cpc&utm_campaign=[G]-[SEM]-[Brand]-[CG]-[Multi]-[Models]-[NA]&utm_adgroup=Current_Models_-_Paradym_-_Broad&utm_keyword=ai%20smoke&utm_tactic=prospecting&utm_metric=cac&utm_placement=search&utm_category=branded&utm_landing=plp&utm_promotion=none&utm_audience=new-customer&utm_cdp=none&utm_team=cgi&utm_campaignid=11808826993&utm_adgroupid=160645464641&gad_source=1&gclid=Cj0KCQjw99e4BhDiARIsAISE7P8BgQ8X3JFhOvB7O7Vn0PhoQ4CTzDz8m2jSFWlUM1wS6TYlZ6CRBFsaAiDVEALw_wcB)
