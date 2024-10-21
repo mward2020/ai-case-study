@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 
-# Name of company: 
+### Name of company: 
 
 TopGolf Callaway Brands. The TopGolf Callaway brand encompasses many brands such as: 
 
