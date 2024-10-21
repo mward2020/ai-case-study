@@ -205,11 +205,11 @@ Another company venturing into AI-enhanced golf products is Bridgestone, known f
 
 These innovations highlight the growing role of AI in personalizing the golf experience by providing actionable data to improve player performance. 
 
-[OnCore](https://oncoreinnovations.golf/genius-ball)
+Source: [OnCore](https://oncoreinnovations.golf/genius-ball)
 
 ### Why do you think that offering this product or service would benefit the company?
 
-I believe it would help the company find consistency in both their engineering processes, and marketing messaging. Customers might be confused if some elements of Callaway Golf are heavily leveraging AI to develop clubs, but nothing else. Buy developing golf balls using essentially the same data models they use for swings, they can “align” their AI-based offerings and stay at the forefront of AI’s induction into the world of golf.  
+I believe it would help the company find consistency in both their engineering processes, and marketing messaging. Customers might be confused if some elements of Callaway Golf are heavily leveraging AI to develop clubs, but nothing else. By developing golf balls using essentially the same data models they use for swings, they can “align” their AI-based offerings and stay at the forefront of AI’s induction into the world of golf.  
 
 Most importantly, AI is the next frontier in the game, and being left behind is not an option. Callaway seems to have recognized this trend early on by procuring their first $5 Million supercomputer to develop the original Flash Face, a project led by Dr Alan Hocknell in 2019. Interestingly, Hocknell left Callaway in 2022 after spending 24 years with the company and joined Acushnet, parent company of Footjoy and Titleist (Callaway's major competitor), as their VP of Advanced Research and Innovation in 2023. I am curious to see what Titleist comes up with in the near future, and whether a supercomputer is on their procurement roadmap too. In fact, I expect AI-branded and developed products from Titleist very soon. All manufacturers will follow suit. We might arrive at a point where golfers (at most levels) might reject equipment that doesn’t (truly) incorporate AI.  
 
