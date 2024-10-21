@@ -1,2 +1,2 @@
 # ai-case-study
-A repository for assignment #1.
+A repository for assignment #1: AI Case Study.
