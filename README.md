@@ -106,7 +106,7 @@ As mentioned, Callaway engineers wrote the software necessary to get the AI star
 
 To keep the face design focused, the supercomputer was instructed that its design had to work in accordance with the strict specifications of other design features of the clubhead, so that the face would work in harmony with all club head components, such as sole, crown, adjustable perimeter weighting, etc., to promote maximum performance. The supercomputer created one design after another, learning from each, working non-stop, day and night. According to Dr. Alan Hocknell, Callaway’s head of R&D at the time: 
 
-    “Our normal process for developing something like this is to try several iterations, with the design team analyzing and discussing the validity of each one, but we’re limited to a human’s assessment ability, and how many ideas a human can come up with. AI used Machine Learning to navigate that design and analysis loop thousands and thousands of times, while doing a better job than a human can of assessing each iteration.” 
+>“Our normal process for developing something like this is to try several iterations, with the design team analyzing and discussing the validity of each one, but we’re limited to a human’s >assessment >ability, and how many ideas a human can come up with. AI used Machine Learning to navigate that design and analysis loop thousands and thousands of times, while doing a better job than a >human can of >assessing each iteration.” 
     
 The supercomputer worked continuously for three weeks before arriving at a design it couldn’t improve on in terms of ball speed generation. Altogether it created more than 15,000 iterations, or “virtual prototypes.” To understand the kind of computing power required to do this, it would take a conventional desktop computer 34 years to run this same analysis. 
 
@@ -114,7 +114,7 @@ At first sight, Callaway engineers were stunned. The design was asymmetrical, wi
 
 Callaway immediately machined a physical prototype and tested it, finding the computer’s prediction was accurate within .1%. More importantly, the results blew their minds. They were remarkable.
     
-    “We thought AI could figure out aspects of how the face works in the dynamic situation of impact to arrive at a deeper understanding of how the face works and how to improve its performance,” said Hocknell. “That’s what happened. We learned there are things going on in one part of the face that influence what’s happening in other parts of the face at impact and this is a whole higher order level of analysis and design,” said Hocknell. 
+>“We thought AI could figure out aspects of how the face works in the dynamic situation of impact to arrive at a deeper understanding of how the face works and how to improve its performance,” said >Hocknell. “That’s what happened. We learned there are things going on in one part of the face that influence what’s happening in other parts of the face at impact and this is a whole higher order level >of analysis and design,” said Hocknell. 
     
 The unique design forced changes in the entire face production process. Callaway's CAD designers had to work differently and their manufacturing methods had to change as well. Forging this new AI-generated face design was significantly harder than previous face designs, and even measuring the unusual contours of this new face posed new challenges. 
 
